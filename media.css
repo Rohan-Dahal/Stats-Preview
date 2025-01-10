@@ -27,7 +27,7 @@
         width: 100%; 
     }
     .container-image{
-        background-image: url(images/image-header-mobile.jpg);
+        background-image: url(image-header-mobile.jpg);
         height:330px;
         width:100%;
         border-bottom-right-radius: 0px;
