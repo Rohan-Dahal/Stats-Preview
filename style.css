@@ -59,7 +59,7 @@ span{
 }
 
 .container-image{
-    background-image: url(images/image-header-desktop.jpg);
+    background-image: url(image-header-desktop.jpg);
     background-position: center;
     background-size: cover;
     height:320px;
